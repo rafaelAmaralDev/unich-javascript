@@ -1,0 +1,1 @@
+console.log("Primeiro arquivo interno JS!");
